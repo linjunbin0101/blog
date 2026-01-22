@@ -119,7 +119,8 @@
                         >
                             <div class="mb-4">
                                 <div class="text-sm text-gray-500 mb-2">
-                                    {{ post.date }}
+                                    发布于: {{ post.date }}
+                                    <span class="ml-2">更新于: {{ post.updatedAt }}</span>
                                 </div>
                                 <h3
                                     class="text-xl font-semibold text-secondary mb-3"

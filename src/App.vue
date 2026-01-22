@@ -71,7 +71,7 @@
 
                 <!-- Copyright -->
                 <div class="text-center text-gray-400 text-sm">
-                    &copy; 2026 张三的个人博客. 保留所有权利.
+                    &copy; 2026 张三的个人博客. 保留所有权利. v1.0.0
                 </div>
             </div>
         </footer>

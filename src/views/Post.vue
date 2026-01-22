@@ -139,7 +139,8 @@
                     </button>
 
                     <div class="text-sm text-gray-500 mb-3">
-                        {{ post.date }}
+                        发布于: {{ post.date }}
+                        <span class="ml-2">更新于: {{ post.updatedAt }}</span>
                     </div>
                     <h1 class="text-3xl font-semibold text-secondary mb-4">
                         {{ post.title }}

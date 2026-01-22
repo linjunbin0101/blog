@@ -4,6 +4,7 @@ export const posts = [
         id: 1,
         title: '如何开始学习前端开发',
         date: '2026年1月22日',
+        updatedAt: '2026年1月22日',
         excerpt:
             '前端开发是一个充满活力和机遇的领域。本文将分享我学习前端开发的经验和建议，包括学习路径、资源推荐和实践方法。',
         content: `# 如何开始学习前端开发
@@ -68,6 +69,7 @@ JavaScript是前端开发的核心编程语言，负责网页的交互和动态�
         id: 2,
         title: 'CSS Grid 布局完全指南',
         date: '2026年1月18日',
+        updatedAt: '2026年1月18日',
         excerpt:
             'CSS Grid 是现代前端开发中最强大的布局工具之一。本文将详细介绍 CSS Grid 的核心概念、属性和使用技巧。',
         content: `# CSS Grid 布局完全指南
@@ -158,6 +160,7 @@ CSS Grid在所有现代浏览器中都得到了很好的支持，包括Chrome、
         id: 3,
         title: 'JavaScript 异步编程进化史',
         date: '2026年1月15日',
+        updatedAt: '2026年1月15日',
         excerpt:
             '从回调函数到 Promise，再到 async/await，JavaScript 的异步编程经历了漫长的进化过程。',
         content: `# JavaScript 异步编程进化史
@@ -249,6 +252,7 @@ fetchData();
         id: 4,
         title: '构建现代化的响应式网站',
         date: '2026年1月10日',
+        updatedAt: '2026年1月10日',
         excerpt:
             '随着移动设备的普及，响应式设计已经成为现代网站的标配。本文将分享构建现代化响应式网站的最佳实践。',
         content: `# 构建现代化的响应式网站
@@ -356,6 +360,7 @@ Flexbox 是一维布局系统，适合排列行或列中的元素。
         id: 5,
         title: '前端性能优化实战',
         date: '2026年1月5日',
+        updatedAt: '2026年1月5日',
         excerpt:
             '性能是影响用户体验的关键因素之一。本文将介绍前端性能优化的各种技术和工具。',
         content: `# 前端性能优化实战
